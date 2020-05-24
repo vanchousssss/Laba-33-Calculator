@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Иван\OneDrive\Рабочий стол\(33)Calculator\MyForm.h(1273,27): warning C4101: e1: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator(n).vcxproj -> C:\Users\Иван\OneDrive\Рабочий стол\(33)Calculator\Debug\Calculator(n).exe

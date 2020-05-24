@@ -1,0 +1,10 @@
+C:\Users\Иван\OneDrive\Рабочий стол\Calculator(n)\Debug\Calculator(n).vcxprojAssemblyReference.cache
+C:\Users\Иван\OneDrive\Рабочий стол\Calculator(n)\Debug\Calculator(n).exe
+C:\Users\Иван\OneDrive\Рабочий стол\Calculator(n)\Debug\Calculator(n).pdb
+C:\Users\Иван\OneDrive\Рабочий стол\Calculator(n)\Debug\Calculatorn.MyForm.resources
+C:\Users\Иван\OneDrive\Рабочий стол\Calculator(n)\Debug\Calculator(n).vcxproj.GenerateResource.cache
+C:\Users\Иван\OneDrive\Рабочий стол\(33)Calculator\Debug\Calculator(n).vcxprojAssemblyReference.cache
+C:\Users\Иван\OneDrive\Рабочий стол\(33)Calculator\Debug\Calculatorn.MyForm.resources
+C:\Users\Иван\OneDrive\Рабочий стол\(33)Calculator\Debug\Calculator(n).vcxproj.GenerateResource.cache
+C:\Users\Иван\OneDrive\Рабочий стол\(33)Calculator\Debug\Calculator(n).exe
+C:\Users\Иван\OneDrive\Рабочий стол\(33)Calculator\Debug\Calculator(n).pdb
